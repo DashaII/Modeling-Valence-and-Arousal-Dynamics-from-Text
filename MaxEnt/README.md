@@ -30,9 +30,9 @@ pip install numpy pandas scikit-learn scipy matplotlib nltk jupyter
     .
     ├── run_subtask1_MaxEnt.ipynb
     ├── run_subtask2a_MaxEnt.ipynb
-    ├── data/        # (if applicable) input datasets
-    ├── models/      # (if applicable) saved models
-    └── outputs/     # (if applicable) results
+    ├── data/        # input datasets
+    ├── models/      
+    └── results/
 
 ------------------------------------------------------------------------
 
@@ -71,14 +71,6 @@ If Subtask 2a depends on Subtask 1 outputs:
 ## Notes
 
 -   Ensure all dataset paths inside notebooks are correct.
--   It is recommended to use a virtual environment:
-
-``` bash
-python -m venv venv
-source venv/bin/activate   # Mac/Linux
-venv\Scripts\activate      # Windows
-pip install numpy pandas scikit-learn scipy matplotlib nltk jupyter
-```
 
 ------------------------------------------------------------------------
 
