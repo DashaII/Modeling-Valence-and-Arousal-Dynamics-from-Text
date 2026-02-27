@@ -8,18 +8,6 @@ two different subtasks:
 -   `run_subtask1_MaxEnt.ipynb`
 -   `run_subtask2a_MaxEnt.ipynb`
 
-------------------------------------------------------------------------
-
-## Requirements
-
--   Python 3.8+
--   Jupyter Notebook or JupyterLab
-
-Install required packages:
-
-``` bash
-pip install numpy pandas scikit-learn scipy matplotlib nltk jupyter
-```
 
 ------------------------------------------------------------------------
 
