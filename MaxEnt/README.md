@@ -45,15 +45,6 @@ jupyter nbconvert --to notebook --execute run_subtask2a_MaxEnt.ipynb
 
 ------------------------------------------------------------------------
 
-## Execution Order
-
-If Subtask 2a depends on Subtask 1 outputs:
-
-1.  Run `run_subtask1_MaxEnt.ipynb`
-2.  Then run `run_subtask2a_MaxEnt.ipynb`
-
-------------------------------------------------------------------------
-
 ## Notes
 
 -   Ensure all dataset paths inside notebooks are correct.
