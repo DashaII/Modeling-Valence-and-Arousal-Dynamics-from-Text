@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
 import numpy as np
+from itertools import product
 
 class MaxEnt(nn.Module):
     """
