@@ -2,13 +2,11 @@
 
 ## Overview
 
-This project contains two Jupyter notebooks:
+These notebooks implement and run Maximum Entropy (MaxEnt) models for
+two different subtasks:
 
 -   `run_subtask1_MaxEnt.ipynb`
 -   `run_subtask2a_MaxEnt.ipynb`
-
-These notebooks implement and run Maximum Entropy (MaxEnt) models for
-two different subtasks.
 
 ------------------------------------------------------------------------
 
