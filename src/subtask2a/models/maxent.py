@@ -1,3 +1,7 @@
+import torch
+import torch.nn as nn
+import numpy as np
+
 class MaxEnt(nn.Module):
     """
     Maximum Entropy model with RESTRICTED STATE SPACE.
