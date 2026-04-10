@@ -99,3 +99,10 @@ directly from text.
 
 A lightweight model incorporating: - Recent affect trajectories -
 Trainable user embeddings - Continuous emotion value prediction
+
+------------------------------------------------------------------------
+
+# Disclaimer
+This repository contains experimental software and is published for the sole purpose of giving additional background details on the respective publication.
+
+
